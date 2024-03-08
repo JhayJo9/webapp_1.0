@@ -9,6 +9,15 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <label>Username</label>
+            <input type="text" id="username" name="username" />
+            <br />
+            <br />
+            <label>Password</label>
+            <input type="text" id="password" name="apssword" />
+            <br/>
+            <br />
+            <button>Login</button>
         </div>
     </form>
 </body>
