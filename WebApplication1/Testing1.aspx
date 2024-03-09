@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <label>Username</label>
+            <label>Name of the user</label>
             <input type="text" id="username" name="username" />
             <br />
             <br />
